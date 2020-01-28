@@ -4,4 +4,4 @@ def valid_move?(board, position)
   test = move-1
   
   
-  
+  if position_taken?(board, test) == false && test.between?(0, 8)
