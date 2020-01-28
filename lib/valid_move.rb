@@ -8,3 +8,5 @@ def valid_move?(board, position)
     TRUE
     
   else
+    false
+    
