@@ -7,6 +7,7 @@ else
 end
 end
 
+def on_board?(num)
 
 
 
