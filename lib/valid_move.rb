@@ -3,3 +3,5 @@ def valid_move?(board, position)
   
   test = move-1
   
+  
+  
