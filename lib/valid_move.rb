@@ -13,4 +13,6 @@ def valid_move?(board, position)
   end
 end
 
-
+def position_taken?(board, position)
+  
+  
