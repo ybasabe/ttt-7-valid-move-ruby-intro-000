@@ -1,3 +1,4 @@
+@ttt_board = ["","X"," "," "," "," "," "," "," "]
 
 
 def valid_move?(board, position)
