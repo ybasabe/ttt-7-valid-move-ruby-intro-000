@@ -4,7 +4,10 @@ if array[ind] == " " || array[ind] == "" || array[ind] == nil
 return FALSE
 else
   return TRUE
-  
+end
+end
+
+
 
 
 
